@@ -1,4 +1,4 @@
-# Manufacturing Quality Improvement Through Defect Analysis — DMAIC Project
+# Manufacturing Quality Improvement Through Defect Analysis - DMAIC Project
 
 **Lean Six Sigma Green Belt**
 
