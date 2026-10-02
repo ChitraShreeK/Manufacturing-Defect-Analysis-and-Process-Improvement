@@ -35,5 +35,11 @@ Python (pandas, matplotlib, scikit-learn, statsmodels), Excel, PowerPoint
 ## Dataset
 [Predicting Manufacturing Defects Dataset](https://www.kaggle.com/datasets/rabieelkharoua/predicting-manufacturing-defects-dataset) by Rabie El Kharoua (Kaggle, CC BY 4.0, synthetic data)
 
+## Repository Contents
+- `DMAIC_Phases.pptx`: Full DMAIC project deck (Define through Control)
+- `manufacturing_defect_analysis.ipynb`: Python analysis (Measure, Analyze)
+- Charts and visualizations generated during analysis
+  ![Defect Rate Distribution](output_images/histogram.png)
+
 ## Scope Note
 This is a self-initiated project using a static, synthetic dataset for skills demonstration. Analysis concludes at the recommendation and control-planning stage; actual impact would require live implementation and monitoring in a real production environment.
